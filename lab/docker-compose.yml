@@ -1,0 +1,5 @@
+version: '3'
+services:
+  dvwa:
+    image: vulnerables/web-dvwa
+    ports: ["8083:80"]
