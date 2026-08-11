@@ -1,0 +1,8 @@
+fastapi==0.103.2
+uvicorn==0.23.2
+torch
+transformers
+tokenizers
+scikit-learn
+sentence-transformers
+pydantic==2.4.2
