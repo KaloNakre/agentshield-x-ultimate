@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  # Placeholder for services to be built
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: agentshield
+      POSTGRES_PASSWORD: dummy_password_change_me
+      POSTGRES_DB: agentshield_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
