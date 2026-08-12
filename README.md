@@ -43,6 +43,16 @@ Built with cutting-edge academic and industry standards, this project demonstrat
 
 ---
 
+## 🎬 Motion Graphics Demo: How It Works in a University Lab
+
+This animated flowchart demonstrates the data flow from a University Lab PC, passing through the Rust Firewall, analyzed by the WAF and AI Hybrid Transformers, before reaching the protected target.
+
+<p align="center">
+  <img src="images/animated_architecture.svg" alt="Animated Architecture Flow" width="100%">
+</p>
+
+---
+
 ## 🖥️ SOC Dashboard
 
 <p align="center">
