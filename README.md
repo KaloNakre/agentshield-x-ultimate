@@ -43,12 +43,20 @@ Built with cutting-edge academic and industry standards, this project demonstrat
 
 ---
 
-## 🎬 Motion Graphics Demo: How It Works in a University Lab
+## 🎬 Motion Graphics Demos
 
+### 1. How It Works in a University Lab
 This animated flowchart demonstrates the data flow from a University Lab PC, passing through the Rust Firewall, analyzed by the WAF and AI Hybrid Transformers, before reaching the protected target.
 
 <p align="center">
-  <img src="images/animated_architecture.svg" alt="Animated Architecture Flow" width="100%">
+  <img src="images/animated_architecture.svg" alt="Animated Architecture Flow (University)" width="100%">
+</p>
+
+### 2. How It Works in a Corporate Office
+This animation illustrates how AgentShield-X protects internal enterprise applications (like an HR portal) from branch office endpoints using Zero Trust and Data Loss Prevention (DLP) intelligence.
+
+<p align="center">
+  <img src="images/animated_architecture_office.svg" alt="Animated Architecture Flow (Office)" width="100%">
 </p>
 
 ---
